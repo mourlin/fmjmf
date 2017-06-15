@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contact-Mobile</string>
+    <string name="hello">contact-mobile!</string>
+    <string name="action_settings">Settings</string>
+	<string name="publisRegId">Publier son RegId</string>
+	<string name="newContact">Creer un nouveau contact</string>
+	
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="email">Email</string>
+    <string name="envoyer">Envoyer les informations</string>
+	<string name="lister">Lister les contacts</string>
+		
+</resources>

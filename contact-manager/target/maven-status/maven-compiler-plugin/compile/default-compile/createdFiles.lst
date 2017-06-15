@@ -1,0 +1,6 @@
+contact\persistence\IFacade.class
+contact\persistence\ContactDAO.class
+contact\main\Server.class
+contact\persistence\Contact.class
+contact\network\Contact.class
+contact\network\ContactService.class
